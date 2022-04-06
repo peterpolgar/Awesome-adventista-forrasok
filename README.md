@@ -14,6 +14,8 @@ Minden módosítási, kiegészítési, javítási stb. javaslat egy pull request
 
 Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adventista-forrasok/graphs/contributors)!
 
+---
+
 - [Adventista weblapok](#adventista-weblapok)
 - [Állam és egyház](#állam-és-egyház)
 - [Biblia keletkezése, ihletettsége](#biblia-keletkezése-ihletettsége)
@@ -23,6 +25,43 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Ellen G. White könyvek, hangoskönyvek](#ellen-g-white-könyvek-hangoskönyvek)
 - [Ének, zene](#ének-zene)
 - [Hit általi megigazulás, 1888](#hit-általi-megigazulás-1888)
+- [Hitélet](#hitélet)
+- [Hitvallás, hitelvek](#hitvallás-hitelvek)
+  - [Lélek hallhatatlansága kérdése, halál](#lélek-hallhatatlansága-kérdése-halál)
+  - [Szombat vs vasárnap](#szombat-vs-vasárnap)
+- [Igehirdetések](#igehirdetések)
+  - [Dokumentumok](#dokumentumok)
+  - [Videók](#videók)
+- [IT programok és segédanyagok élő közvetítéshez, ének lejátszáshoz, bibliavers megjelenítéshez](#it-programok-és-segédanyagok-élő-közvetítéshez-ének-lejátszáshoz-bibliavers-megjelenítéshez)
+  - [Ének lejátszás, kivetítés; Bibliavers kivetítés](#ének-lejátszás-kivetítés-bibliavers-kivetítés)
+  - [Hangosítás, audio](#hangosítás-audio)
+  - [Videó streamelés](#videó-streamelés)
+- [Jelenvaló igazság](#jelenvaló-igazság)
+  - [Lelki ébresztők](#lelki-ébresztők)
+  - [Maradék](#maradék)
+  - [Utolsó napok, második advent](#utolsó-napok-második-advent)
+    - [Késleltettük Jézus visszajövetelét?](#késleltettük-jézus-visszajövetelét)
+- [Liturgia](#liturgia)
+- [Megosztó tanítások](#megosztó-tanítások)
+  - [A Questions on doctrine (QOD) által kiváltott válság](#a-questions-on-doctrine-qod-által-kiváltott-válság)
+    - [QOD tanításának ellenzői](#qod-tanításának-ellenzői)
+    - [QOD tanításának támogatói](#qod-tanításának-támogatói)
+    - [Utolsó Nemzedék Teológiája (UNT)](#utolsó-nemzedék-teológiája-unt)
+  - [Nők felszentelése](#nők-felszentelése)
+  - [Omega válság](#omega-válság)
+    - [Alfa válság](#alfa-válság)
+  - [Szentháromság vita](#szentháromság-vita)
+- [Napi áhítat](#napi-áhítat)
+- [Ószövetség](#ószövetség)
+- [Próféciák](#próféciák)
+  - [Dániel könyve](#dániel-könyve)
+  - [Jelenések könyve](#jelenések-könyve)
+- [Régészet](#régészet)
+- [Szövetségek](#szövetségek)
+- [Teremtés vs evolúció](#teremtés-vs-evolúció)
+- [Tized és adományok](#tized-és-adományok)
+- [Törvény](#törvény)
+- [YouTube csatornák](#youtube-csatornák)
 
 # Adventista weblapok
 
@@ -118,7 +157,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 - [EGW a bizonyságtételekről](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hitelet/egw_a_bizonysagtetelekrol.pdf)
 - [Kereszténység Kínában - egy könyvből egy fejezet szkennelve ismeretlen által](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hitelet/Keresztenyseg_Kinaban.pdf)
-- Lásd még: [Lelki ébresztők](#Lelki ébresztők)
+- Lásd még: [Lelki ébresztők](#lelki-ébresztők)
 
 # Hitvallás, hitelvek
 
