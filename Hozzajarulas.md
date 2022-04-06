@@ -11,6 +11,5 @@ Kérlek győződj meg arról, hogy a pull requested megfelel az alábbi irányel
 - Ellenőrizd a nyelvtani helyességet.
 - Egy forrás több kategóriához is hozzárendelhető.
 - Üdvözöljük az új kategóriákat vagy fejlesztéseket a már meglévő kategóriákhoz.
-- Használj megfelelő commit üzeneteket ahhoz, hogy listázva legyél a fantasztikus hozzájárulóink között.
 
 Köszönjük javaslataidat!
