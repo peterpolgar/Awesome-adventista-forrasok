@@ -6,7 +6,6 @@ Kérlek győződj meg arról, hogy a pull requested megfelel az alábbi irányel
 - Kérlek készíts egy egyedülálló pull requestet minden egyes javaslatra.
 - Használd a következő formátumot: \[ERŐFORRÁS NÉV - SZERZŐ\]\(LINK\) - LEÍRÁS.
 - A leírások legyenek rövidek és egyszerűek.
-- Minden leírást ponttal fejezz be.
 - Minden egyes kategóriában ábécé sorrendbe helyezd a forrásodat.
 - Angol nyelvű forrás esetén a forrás a magyar rész után következzen, és az ERŐFORRÁS NÉV előtt szerepeljen az, hogy "Angol: ".
 - Ellenőrizd a nyelvtani helyességet.
