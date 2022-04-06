@@ -9,8 +9,8 @@ Kérlek győződj meg arról, hogy a pull requested megfelel az alábbi irányel
 - Minden egyes kategóriában ábécé sorrendbe helyezd a forrásodat.
 - Angol nyelvű forrás esetén a forrás a magyar rész után következzen, és az ERŐFORRÁS NÉV előtt szerepeljen az, hogy "Angol: ".
 - Ellenőrizd a nyelvtani helyességet.
+- Egy forrás több kategóriához is hozzárendelhető.
 - Üdvözöljük az új kategóriákat vagy fejlesztéseket a már meglévő kategóriákhoz.
 - Használj megfelelő commit üzeneteket ahhoz, hogy listázva legyél a fantasztikus hozzájárulóink között.
-- Egy forrás több kategóriához is hozzárendelhető.
 
 Köszönjük javaslataidat!
