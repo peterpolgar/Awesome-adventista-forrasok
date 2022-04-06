@@ -14,7 +14,15 @@ Minden módosítási, kiegészítési, javítási stb. javaslat egy pull request
 
 Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adventista-forrasok/graphs/contributors)!
 
-[toc]
+- [Adventista weblapok](#adventista-weblapok)
+- [Állam és egyház](#állam-és-egyház)
+- [Biblia keletkezése, ihletettsége](#biblia-keletkezése-ihletettsége)
+- [Egészségügy](#egészségügy)
+- [Egyéb érdekes](#egyéb-érdekes)
+- [Egyházi működés](#egyházi-működés)
+- [Ellen G. White könyvek, hangoskönyvek](#ellen-g-white-könyvek-hangoskönyvek)
+- [Ének, zene](#ének-zene)
+- [Hit általi megigazulás, 1888](#hit-általi-megigazulás-1888)
 
 # Adventista weblapok
 
