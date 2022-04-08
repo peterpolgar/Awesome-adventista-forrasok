@@ -19,7 +19,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Adventista weblapok](#adventista-weblapok)
 - [Állam és egyház](#állam-és-egyház)
 - [Biblia keletkezése, ihletettsége](#biblia-keletkezése-ihletettsége)
-- [Bibliamagyarázatok](#bibliamagyarázatok)
+- [Bibliamagyarázatok, bibliai anyagok](#bibliamagyarázatok-bibliai-anyagok)
   - [Ószövetség](#ószövetség)
   - [Újszövetség](#újszövetség)
 - [Egészségügy](#egészségügy)
@@ -105,18 +105,23 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 - [Témavázlat: bibliai antropológia - ismeretlen szerző](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Biblia_keletkezes_ihletettseg/temavazlat_bibliai_antropologia_071213.pdf)
 
-# Bibliamagyarázatok
+# Bibliamagyarázatok, bibliai anyagok
 
 ## Ószövetség
 
 - [A megváltás története (Sola jegyzetek és hanganyagok) - Stramszki István](http://stramszki.hu/sola-scriptura.html)
+- [A szentélyről képek, ábrák](https://github.com/peterpolgar/Awesome-adventista-forrasok/tree/main/Forrasok/Bibliamagyarazatok/Oszovetseg/Szentelyrol_kepek)
 - [Az Ószövetségi történelem vázlatos kronológiája - ismeretlen szerző](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Oszovetseg/Az_Oszovetsegi_tortenelem_vazlatos_kronologiaja-jav.pdf)
-- [Bibliai időszámítás leírás - Polgár Péter](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Oszovetseg/Bibliai_idoszamitas.pdf)
-- [Bibliai időszámítás táblázatok - Polgár Péter](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Oszovetseg/Bibliai_idoszamitas.xlsx)
+- [Ábrák: Nemzetek eredete, Tháré és Jákób családja - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/tree/main/Forrasok/Bibliamagyarazatok/Oszovetseg/Abrak_nemzetek_eredete)
+- [Bibliai időszámítás leírás - Polgár Péter](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Oszovetseg/Bibliai_idoszamitas.pdf) - az alábbi "Táblázatok: Bibliai időszámítás"-hoz fűzött magyarázat
+- [Táblázatok: Bibliai időszámítás - Polgár Péter](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Oszovetseg/Bibliai_idoszamitas.xlsx) - négy munkalap: Izraeli és Júdabeli királyok; Ádámtól Sedékiásig összefoglaló; Bírák kora; Ádámtól Ábrahám Háránból való elhívatásáig
+- [Táblázat: Ószövetségi ünnepek igehelyei - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Oszovetseg/unnepek_igehelyei.xlsx)
+- [Zsidó ünnepek, prezentáció - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Oszovetseg/Zsido_unnepek.pdf)
 
 ## Újszövetség
 
-- 
+- [Jézus halála és feltámadása időpontjának meghatározása, és az ezzel kapcsolatos próféciák teljesedése - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Ujszovetseg/Jezus_halala_es_feltamad%C3%A1sa.pdf)
+- [Újszövetségi ünnepek, prezentáció - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Ujszovetseg/Ujszovetsegi_unnepek.pdf)
 
 # Egészségügy
 
@@ -150,6 +155,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Az egyház és szervezete - ismeretlen szerző](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyhazi_mukodes/Az_egyhaz_es_szervezete.pdf)
 - [EGW az egyszemélyi vezetésről](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyhazi_mukodes/EGW_az_egyszemelyi_vezetesrol.pdf)
 - [Ellen White idézetek a tekintélyelvű vezetésről](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyhazi_mukodes/tekintelyelvuseg.pdf)
+- [Gyülekezeti szolgálattevők kézikönyve](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyhazi_mukodes/Gyulekezeti_szolgalattevok_kezikonyve.pdf)
 - [Prédikátorok és gyülekezeti tisztségviselők szolgálata - Vankó Zsuzsa összeállítása](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyhazi_mukodes/Predikatorok_es_gyulekezeti_tisztsegviselok_szolgalata_SzG_2014_03_03.pdf)
 
 # Ellen G. White könyvek, hangoskönyvek
@@ -191,6 +197,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 # Hitélet
 
 - [EGW a bizonyságtételekről](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hitelet/egw_a_bizonysagtetelekrol.pdf)
+- [Igekutatás: vegyünk példát az úttörőktől! - Polgár Tibor összeállítása](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hitelet/Igekutatas-uttorok-szentely.pdf)
 - [Kereszténység Kínában - egy könyvből egy fejezet szkennelve ismeretlen által](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hitelet/Keresztenyseg_Kinaban.pdf)
 - Lásd még: [Lelki ébresztők](#lelki-ébresztők)
 
@@ -396,6 +403,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 # Tized és adományok
 
 - [Ellen White a tized visszatartásról](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Tized_es_adomanyok/EW_Tized_visszatartas.pdf)
+- [Tizedhez (és második tizedhez) kapcsolódó igék és Ellen G. White idézetek gyűjteménye - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Tized_es_adomanyok/Tized_igei_EGW_idezetei.pdf)
 - [Tized: Hol van a tárház - ismeretlen szerző](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Tized_es_adomanyok/TIZED_Hol_van_a_tarhaz.pdf)
 - [Angol: The Untold Tale of the Tenth: A Brief History of Adventist Benevolence in Historical Context - spectrummagazine.org](https://spectrummagazine.org/article/2018/02/13/untold-tale-tenth-brief-history-adventist-benevolence-historical-context)
 - [Angol: a Generál Konferencia tized fizetési útmutatója, 1990)](https://www.nadstewardship.org/aiQu9o/uploads/2018/07/TithingPrinGuidelinesBklet1990.pdf)
@@ -410,7 +418,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 # YouTube csatornák
 
 - [Adventizmus megrázása](https://www.youtube.com/c/Adventizmusmegr%C3%A1z%C3%A1sa/playlists) - jellemző témák: 1888 - hit általi megigazulás, Jones, Waggoner; QOD válság; Utolsó Nemzedék Teológiája
-- [DANIEL 11](https://www.youtube.com/channel/UC4sX1XWxmRV8Ldxt24BvXJA/videos) - jellemző témák: Dániel próféta könyve
+- [DANIEL 11](https://www.youtube.com/channel/UC4sX1XWxmRV8Ldxt24BvXJA/videos) - jellemző témák: prófécia-iskola
 - [E. G. White Könyvtár](https://www.youtube.com/c/EGWhiteK%C3%B6nyvt%C3%A1r/videos) - jellemző témák: jelenvaló igazság sokféle témában
 - [Jelenvaló Igazság](https://www.youtube.com/channel/UCJSw3qMUWTjOzbfmxagkuBA/videos) - jellemző témák: késői eső; hármas angyali üzenet; 1888; QOD válság
 - [Light Channel Transylvania](https://www.youtube.com/c/LightChannelTV/featured) - jellemző témák: napi áhítat; kerakos igehirdetések; zene; David Gates igehirdetések
