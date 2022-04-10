@@ -16,6 +16,8 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 ---
 
+# Tartalomjegyzék
+
 - [Adventista weblapok](#adventista-weblapok)
 - [Állam és egyház](#állam-és-egyház)
 - [Biblia keletkezése, ihletettsége](#biblia-keletkezése-ihletettsége)
