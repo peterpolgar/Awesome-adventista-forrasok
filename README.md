@@ -417,7 +417,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Angol: A Generál Konferencia tized fizetési útmutatója, 1990)](https://www.nadstewardship.org/aiQu9o/uploads/2018/07/TithingPrinGuidelinesBklet1990.pdf)
 - [Angol: The Untold Tale of the Tenth: A Brief History of Adventist Benevolence in Historical Context - spectrummagazine.org](https://spectrummagazine.org/article/2018/02/13/untold-tale-tenth-brief-history-adventist-benevolence-historical-context)
 - [Angol: Tithing Principles and Guidelines — Ellen G. White Writings (egwwritings.org)](https://m.egwwritings.org/en/book/733.139)
-- [Angol: Tized a bruttóból vagy a nettóból?](https://stewardship.adventist.org/tithing-from-the-gross-or-net)
+- [Angol: Tized a bruttóból vagy a nettóból? - stewardship.adventist.org](https://stewardship.adventist.org/tithing-from-the-gross-or-net)
 
 # Törvény
 
