@@ -22,8 +22,10 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Bibliamagyarázatok, bibliai anyagok](#bibliamagyarázatok-bibliai-anyagok)
   - [Ószövetség](#ószövetség)
   - [Újszövetség](#újszövetség)
+
 - [Egészségügy](#egészségügy)
   - [Húsmentes életmódra motiválás](#húsmentes-életmódra-motiválás)
+
 - [Egyéb érdekes](#egyéb-érdekes)
 - [Egyházi működés](#egyházi-működés)
 - [Ellen G. White könyvek, hangoskönyvek](#ellen-g-white-könyvek-hangoskönyvek)
@@ -34,6 +36,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
   - [Isten személyisége](#isten-személyisége)
   - [Lélek hallhatatlansága kérdése, halál](#lélek-hallhatatlansága-kérdése-halál)
   - [Szombat vs vasárnap](#szombat-vs-vasárnap)
+
 - [Igehirdetések, előadások, sorozatok, dokumentumok](#igehirdetések-előadások-sorozatok-dokumentumok)
   - [Bibliai szabadegyetem](#bibliai-szabadegyetem)
 - [IT felhasználói alkalmazások](#it-felhasználói-alkalmazások)
@@ -44,6 +47,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
   - [Hangosítás, audio](#hangosítás-audio)
     - [Hangosítás tanító weblapok](#hangosítás-tanító-weblapok)
     - [Egyéb cikkek](#egyéb-cikkek)
+    - [PDF-ek](#pdf-ek)
   - [Videó streamelés](#videó-streamelés)
 - [Jelenvaló igazság](#jelenvaló-igazság)
   - [Lelki ébresztők](#lelki-ébresztők)
@@ -270,6 +274,11 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [The 248 Best Free VST Plugins Ever (2022 Update)](https://blog.landr.com/best-free-vst-plugins/)
 - [Understanding Your Mixer: The Channel Strip](https://music.tutsplus.com/tutorials/understanding-your-mixer-the-channel-strip--audio-2940)
 - [What Vocal Effects do Audio Producers Use?](https://www.ipr.edu/blogs/audio-production/what-vocal-effects-do-audio-producers-use/)
+
+### PDF-ek
+
+- [Church Soundcheck Checklist - Behind the Mixer](https://www.behindthemixer.com/wp-content/uploads/2016/01/btm-soundcheckchecklist-2016.pdf)
+- [Hangtechnika - hallgatói jegyzet](https://last.hit.bme.hu/download/HTGy2018___/Hangtech%20jegyzet%202016-17-1%20-%20Pa%CC%81lya%CC%81zatra%20-%20MF.pdf)
 
 ## Videó streamelés
 
