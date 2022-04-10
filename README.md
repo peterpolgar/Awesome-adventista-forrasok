@@ -161,7 +161,6 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Az egyház és szervezete - ismeretlen szerző](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyhazi_mukodes/Az_egyhaz_es_szervezete.pdf)
 - [EGW az egyszemélyi vezetésről](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyhazi_mukodes/EGW_az_egyszemelyi_vezetesrol.pdf)
 - [Ellen White idézetek a tekintélyelvű vezetésről](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyhazi_mukodes/tekintelyelvuseg.pdf)
-- [Gyülekezeti szolgálattevők kézikönyve](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyhazi_mukodes/Gyulekezeti_szolgalattevok_kezikonyve.pdf)
 - [Prédikátorok és gyülekezeti tisztségviselők szolgálata - Vankó Zsuzsa összeállítása](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyhazi_mukodes/Predikatorok_es_gyulekezeti_tisztsegviselok_szolgalata_SzG_2014_03_03.pdf)
 
 # Ellen G. White könyvek, hangoskönyvek
