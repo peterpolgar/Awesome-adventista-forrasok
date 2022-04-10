@@ -197,7 +197,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Minneapolis 1888-1988 - igemorzsa.hu](http://igemorzsa.hu/megujjulas/02-lelk-tajek/tartalom.html)
 - [Reform adventisták szombatiskolai tanulmánya](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hit_altali_megigazulas/Ref-Adv-Tan-2017-4-hit-altali-megigazulas.pdf)
 - [Szilvási József disszertációja: Krisztus a mi igazságunk](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hit_altali_megigazulas/Szilvasi_disszertacio.pdf)
-- [Angol: 1888 Message Study : Welcome to 1888 Message Study Committee (1888msc.org)](https://www.1888msc.org/)
+- [Angol: 1888 Message Study : Welcome to 1888 Message Study Committee - 1888msc.org](https://www.1888msc.org/)
 
 # Hitélet
 
@@ -245,12 +245,12 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 ## Asztali alkalmazások
 
-- [Biblia-Felfedező - Korszerű Biblia tanulmányozó és konkordancia program (mobilbiblia.hu)](http://www.mobilbiblia.hu/)
+- [Biblia-Felfedező - Korszerű Biblia tanulmányozó és konkordancia program - mobilbiblia.hu](http://www.mobilbiblia.hu/)
 
 ## Mobil alkalmazások
 
 - [Adventista Énekeskönyvek - Imnuri Crestine](https://play.google.com/store/apps/details?id=com.biroartur.a736)
-- [Biblia-Felfedező - Korszerű Biblia tanulmányozó és konkordancia program (mobilbiblia.hu)](http://www.mobilbiblia.hu/)
+- [Biblia-Felfedező - Korszerű Biblia tanulmányozó és konkordancia program - mobilbiblia.hu](http://www.mobilbiblia.hu/)
 - [Bibliatanulmányok - Szombatiskola](https://play.google.com/store/apps/details?id=com.cryart.sabbathschool)
 - [EGW Writings 2 (magyar fordítások is vannak)](https://play.google.com/store/apps/details?id=com.whiteestate.egwwritings)
 
@@ -352,7 +352,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 - [Egy konkrét női felszentelés, és magyarázat - adventista.hu](http://huc.adventista.hu/index.php?option=com_content&task=view&id=2194&Itemid=1)
 
-- [Angol: Women’s Ordination: The Truth about the Real Position of the 13 Divisions in the Seventh-day Adventist Church (spectrummagazine.org)](https://spectrummagazine.org/views/2018/womens-ordination-truth-about-real-position-13-divisions-seventh-day-adventist-church)
+- [Angol: Women’s Ordination: The Truth about the Real Position of the 13 Divisions in the Seventh-day Adventist Church - spectrummagazine.org](https://spectrummagazine.org/views/2018/womens-ordination-truth-about-real-position-13-divisions-seventh-day-adventist-church)
 
 ## Omega válság
 
