@@ -170,12 +170,12 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Ellen G. White írásai - adventistaszolokma.net](http://www.adventistaszolokma.net/egw-irasai.html)
 - [Ellen White írásai és könyvei online, hangos felolvasási lehetőséggel](https://www.ellenwhite.pro/)
 - [Ellen G. White hangoskönyvek YouTube csatorna](https://www.youtube.com/user/szovetnek)
-- [Ellen Gould White írásai hangosan (igemorzsa.hu)](http://www.igemorzsa.hu/e_g_w_konyvek/tartalomjegyzek.html)
+- [Ellen Gould White írásai hangosan - igemorzsa.hu](http://www.igemorzsa.hu/e_g_w_konyvek/tartalomjegyzek.html)
 
 # Ének, zene
 
 - [Ének: Krisztus él](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Enek_zene/Krisztus_el.pdf)
-- [Hitünk Énekei Lejátszó (adventista.hu)](http://sopron.adventista.hu/enekek/)
+- [Hitünk Énekei Lejátszó](http://sopron.adventista.hu/enekek/)
 
 # Hit általi megigazulás, 1888
 
@@ -239,7 +239,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Bibliai Szabadegyetem - forrasmedia.hu](https://forrasmedia.hu/bibliai-szabadegyetem)
 - [BIBLIAI SZABADEGYETEM - Szabadka, BIBLIJSKOG OTVORENOG UNIVERZITETA - Subotica](http://szabadegyetem.adventista.rs/)
 - [Budapest Terézvárosi Gyülekezet | Bibliai szabadegyetem 2017](https://terezvaros.adventista.hu/bibliai-szabadegyetem-2017/)
-- [Videók - gyereahogyvagy](https://gyereahogyvagy.hu/videok/keres/ Szabadegyetem)
+- [Videók - gyereahogyvagy](https://gyereahogyvagy.hu/videok/keres/%20Szabadegyetem)
 - [Videók - ReményTV](https://remenytv.hu/video/kat/36-bibliai-szabadegyetem-erd)
 
 # IT felhasználói alkalmazások
