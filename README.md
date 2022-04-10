@@ -150,10 +150,10 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Gyűrű-Kúra - Magyarország első és eddig egyetlen tudományosan igazolt hatékonyságú párkapcsolati tréningje](https://gyuru-kura.hu/)
 - [Mozgalomból – egyház (Robert Pierson búcsúbeszéde) – Dénes Ottó (denesotto.hu)](https://denesotto.hu/2021/05/mozgalombol-egyhaz-robert-pierson-bucsubeszede/)
 - [Tényleg több, mint 50-szer mond ellent a Bibliának Ellen White? - egw.hu](https://egw.hu/biblia-egw)
-- [Angol: a White Estate különleges tanulmányai](https://whiteestate.org/about/issues/)
+- [Angol: A White Estate különleges tanulmányai](https://whiteestate.org/about/issues/)
 - [Angol: Creation, Sabbath, and Conspiracy Theories - Amazing Facts](https://www.amazingfacts.org/news-and-features/af-blog/article/id/25543/t/creation--sabbath--and-conspiracy-theories)
-- [Angol: "End-time Visionary Messenger to All Christendom and Religions of the World" - omega77.tripod.com](https://omega77.tripod.com/)
 - [Angol: Ingyenes online angol nyelvű könyvek](https://www.saccentral.org/free-online-books/)
+- [Angol: "End-time Visionary Messenger to All Christendom and Religions of the World" - omega77.tripod.com](https://omega77.tripod.com/)
 
 # Egyházi működés
 
@@ -335,7 +335,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 ### A QOD és a kálvinista tanítások támogatói, az UNT ellenzői
 
-- [Bizonyos előadások a 2018-as Duna Bibliakonferenciáról](https://www.youtube.com/playlist?list=PLcvOxEfo6Hh4ItKtPGt2bSPbjQbNalp3D)
+- [Videók: Bizonyos előadások a 2018-as Duna Bibliakonferenciáról](https://www.youtube.com/playlist?list=PLcvOxEfo6Hh4ItKtPGt2bSPbjQbNalp3D)
 
 ### Utolsó Nemzedék Teológiája (UNT)
 
@@ -360,7 +360,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Az alfa és az omega - Szemelvények E. G. White írásaiból](http://adventista.hu/egwhite/honlap/szegwi/26.htm)
 - [Jéghegy! Előre! - Lewis R. Walton](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Megoszto_tanitasok/Omega_valsag/Jeghegy!_Elore!.pdf)
 - [Videó: Az Alfa és az Omega a hetednapi adventizmusban - Evangélium Krisztusban csatorna](https://youtu.be/pN47UUHfNaU)
-- [Hang: Az omega-válság - Kürtszó (soundcloud.com)](https://soundcloud.com/kurtszo/03-az-omega-v-ls-g)
+- [Audió: Az omega-válság - Kürtszó (soundcloud.com)](https://soundcloud.com/kurtszo/03-az-omega-v-ls-g)
 - [Videó: Duna Bibliakonferencia 2018.03.02-04. 08 Szilvási József: Alfa és Omega válság](https://youtu.be/NXRejg5ff0A)
 - [Videó: Hitünknek mely oszlopait veszi célba az Omega válság? - Holló Péter](https://youtu.be/qNLYLZIRc_Y)
 - [Az Alfa és az Omega a hetednapi adventizmusban - Filadelfia](https://filadelfia.hu/predikacio/az-alfa-es-az-omega-hetednapi-adventizmusban/)
@@ -377,7 +377,6 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [A keresztségi formula egy ógörög elemzése - nem megnevezett szerző](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Megoszto_tanitasok/Szentharomsag/A_szentharomsag_alaptanitasa.pdf)
 - [A keresztségi formulában levő név használata - angol írásokra mutató linkek](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Megoszto_tanitasok/Szentharomsag/keresztsegi_formula_hasznalata_angol_linkek.pdf)
 - [Angol: "We are Seventh-day Adventists proclaiming the biblical understanding of the Godhead." - As It Reads](https://asitreads.com/)
-- [Angol: Is The Trinity True Or False - Is The Trinity Biblical (trinitytruth.org)](https://www.trinitytruth.org/index.html)
 
 # Napi áhítat
 
@@ -401,7 +400,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 - [Felfedezések - Ron Wyatt](http://adventista.hu/ujfeherto/?cat=3), [Angol nyelvű videók Ron Wyatt felfedezéseivel kapcsolatban](https://www.youtube.com/c/ArkFiles/featured)
 
-- [Régészet Végh József szerint](https://www.youtube.com/playlist?list=PLJVuhJgBTZdw81Nz9BMW25CDgJ6ZRARgj)
+- [Videók: Régészet Végh József szerint](https://www.youtube.com/playlist?list=PLJVuhJgBTZdw81Nz9BMW25CDgJ6ZRARgj)
 
 # Szövetségek
 
@@ -416,8 +415,8 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Ellen White a tized visszatartásról](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Tized_es_adomanyok/EW_Tized_visszatartas.pdf)
 - [Tizedhez (és második tizedhez) kapcsolódó igék és Ellen G. White idézetek gyűjteménye - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Tized_es_adomanyok/Tized_igei_EGW_idezetei.pdf)
 - [Tized: Hol van a tárház - ismeretlen szerző](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Tized_es_adomanyok/TIZED_Hol_van_a_tarhaz.pdf)
+- [Angol: A Generál Konferencia tized fizetési útmutatója, 1990)](https://www.nadstewardship.org/aiQu9o/uploads/2018/07/TithingPrinGuidelinesBklet1990.pdf)
 - [Angol: The Untold Tale of the Tenth: A Brief History of Adventist Benevolence in Historical Context - spectrummagazine.org](https://spectrummagazine.org/article/2018/02/13/untold-tale-tenth-brief-history-adventist-benevolence-historical-context)
-- [Angol: a Generál Konferencia tized fizetési útmutatója, 1990)](https://www.nadstewardship.org/aiQu9o/uploads/2018/07/TithingPrinGuidelinesBklet1990.pdf)
 - [Angol: Tithing Principles and Guidelines — Ellen G. White Writings (egwwritings.org)](https://m.egwwritings.org/en/book/733.139)
 - [Angol: Tized a bruttóból vagy a nettóból?](https://stewardship.adventist.org/tithing-from-the-gross-or-net)
 
