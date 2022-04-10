@@ -168,7 +168,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Ellen Gould White Könyvtár](https://white-konyvtar.hu/) - Majdnem az összes, magyarul kiadott Ellen White írások olvashatók online (a "Kiben bízhatunk" sorozat hiányzik), és az írásokban fejlett keresési lehetőség van
 - [Ellen G. White írásai - adventistaszolokma.net](http://www.adventistaszolokma.net/egw-irasai.html)
 - [Ellen White írásai és könyvei online, hangos felolvasási lehetőséggel](https://www.ellenwhite.pro/)
-- [Ellen G. White hangoskönyvek YouTube csatorna](https://www.youtube.com/user/szovetnek)
+- ["Ellen G. White hangoskönyvek" YouTube csatorna](https://www.youtube.com/user/szovetnek)
 - [Ellen Gould White írásai hangosan - igemorzsa.hu](http://www.igemorzsa.hu/e_g_w_konyvek/tartalomjegyzek.html)
 
 # Ének, zene
@@ -358,7 +358,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 - [Az alfa és az omega - Szemelvények E. G. White írásaiból](http://adventista.hu/egwhite/honlap/szegwi/26.htm)
 - [Jéghegy! Előre! - Lewis R. Walton](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Megoszto_tanitasok/Omega_valsag/Jeghegy!_Elore!.pdf)
-- [Videó: Az Alfa és az Omega a hetednapi adventizmusban - Evangélium Krisztusban csatorna](https://youtu.be/pN47UUHfNaU)
+- [Videó: Az Alfa és az Omega a hetednapi adventizmusban - "Evangélium Krisztusban" csatorna](https://youtu.be/pN47UUHfNaU)
 - [Audió: Az omega-válság - Kürtszó (soundcloud.com)](https://soundcloud.com/kurtszo/03-az-omega-v-ls-g)
 - [Videó: Duna Bibliakonferencia 2018.03.02-04. 08 Szilvási József: Alfa és Omega válság](https://youtu.be/NXRejg5ff0A)
 - [Videó: Hitünknek mely oszlopait veszi célba az Omega válság? - Holló Péter](https://youtu.be/qNLYLZIRc_Y)
