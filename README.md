@@ -229,7 +229,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 - Lásd még: [Adventista weblapok](#adventista-weblapok)
 - Lásd még: [YouTube csatornák](#youtube-csatornák)
-- [Dok.: Ted Wilson évértékelő beszéde 2013](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Igehirdetesek/Ted-Wilson-evertekelo-beszede-2013.pdf)
+- [Ted Wilson évértékelő beszéde 2013](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Igehirdetesek/Ted-Wilson-evertekelo-beszede-2013.pdf)
 - [Videó: Ted Wilson: ROSTÁLÁS! Tévtanítások az egyházban. A HN Adventista Egyház üzenete. (szink Végh József)](https://youtu.be/tuiEYambo-E)
 
 ## Bibliai szabadegyetem
