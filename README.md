@@ -339,7 +339,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 ### Utolsó Nemzedék Teológiája (UNT)
 
 - [Az ószövetségi szentély és az evangélium - M. L. Andreasen, az UNT- ről az "Az utolsó nemzedék" című fejezet szól](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Megoszto_tanitasok/QOD/Milian-L.-Andreasen-Az-oszovetsegi-szentely-es-az-evangelium.pdf)
-  - [E fejezet tartalmi kategorizálása](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Megoszto_tanitasok/QOD/andreasen_utolso_nemzedek_tematizalva.pdf)
+  - [E fejezet tartalmi kategorizálása - Polgár Péter](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Megoszto_tanitasok/QOD/andreasen_utolso_nemzedek_tematizalva.pdf)
 - [Angol: Snapshot - Adventist Review](https://adventistreview.org/issue-archives/page-2013/page-9131528/2013-1528-p42/)
 
 ## Mi az igazi evangélium?
