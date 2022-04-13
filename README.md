@@ -24,6 +24,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
   - [Újszövetség](#újszövetség)
 
 - [Egészségügy](#egészségügy)
+  - [Életmód tanácsok](#életmód-tanácsok)
   - [Húsmentes életmódra motiválás](#húsmentes-életmódra-motiválás)
 
 - [Egyéb érdekes](#egyéb-érdekes)
@@ -128,6 +129,10 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Újszövetségi ünnepek, prezentáció - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Ujszovetseg/Ujszovetsegi_unnepek.pdf)
 
 # Egészségügy
+
+## Életmód tanácsok
+
+- [Hogyan fogyókúrázzunk hatékonyan? - Polgár Péter](https://github.com/peterpolgar/Hogyan-fogyokurazzunk-hatekonyan-)
 
 ## Húsmentes életmódra motiválás
 
