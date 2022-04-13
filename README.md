@@ -6,8 +6,6 @@ Ebben a listában hivatalos (adventista egyház által jóváhagyott) és nemhiv
 
 Ezért aki azt észleli, hogy egy bizonyos kategóriánál nagyon egyoldalú (egy irányzathoz köthető) források vannak csak, és szeretne ezen változtatni, az előterjesztheti javaslatát az alábbi "Hozzájárulás" részben leírtak szerint.
 
-E projekt módosításait nyomon lehet követni [ezen a linken](https://github.com/peterpolgar/Awesome-adventista-forrasok/commits/main).
-
 # Hozzájárulás
 
 Minden javaslatot lehetőleg egy pull request formájában kellene jelezni az [útmutató](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Hozzajarulas.md) alapján. Aki valamiért nem akarja a Github-ot használni, az írhat a pulgarpeter@gmail.com email címre. Angolul tudóknak javaslom a [Github megtanulását (a mappákban vannak a tananyagok)](https://github.com/tvanantwerp/github-for-non-programmers), mert a Github-on többen is közösen, nyíltan tudjuk megbeszélni a dolgokat, javaslatokat, míg az emailt csak én látom, és csak a küldővel tudom megbeszélni privátban.
