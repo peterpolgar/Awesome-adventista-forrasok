@@ -24,7 +24,6 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Bibliamagyarázatok, bibliai anyagok](#bibliamagyarázatok-bibliai-anyagok)
   - [Ószövetség](#ószövetség)
   - [Újszövetség](#újszövetség)
-
 - [Egészségügy](#egészségügy)
   - [Életmód tanácsok](#életmód-tanácsok)
   - [Húsmentes életmódra motiválás](#húsmentes-életmódra-motiválás)
@@ -39,7 +38,6 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
   - [Isten személyisége](#isten-személyisége)
   - [Lélek hallhatatlansága kérdése, halál](#lélek-hallhatatlansága-kérdése-halál)
   - [Szombat vs vasárnap](#szombat-vs-vasárnap)
-
 - [Igehirdetések, előadások, sorozatok, dokumentumok](#igehirdetések-előadások-sorozatok-dokumentumok)
   - [Bibliai szabadegyetem](#bibliai-szabadegyetem)
 - [IT felhasználói alkalmazások](#it-felhasználói-alkalmazások)
@@ -72,6 +70,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Próféciák](#próféciák)
   - [Dániel könyve](#dániel-könyve)
   - [Jelenések könyve](#jelenések-könyve)
+  - [Jézus első eljövetele](#jézus-első-eljövetele)
 - [Régészet](#régészet)
 - [Szövetségek](#szövetségek)
 - [Teremtés vs evolúció](#teremtés-vs-evolúció)
@@ -399,6 +398,10 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 ## Jelenések könyve
 
 - [Jelenések könyve - forrasmedia.hu](http://forrasmedia.hu/revelation/revelation.htm)
+
+## Jézus első eljövetele
+
+- [Jézus Krisztus a jövendölések középpontjában - igemorzsa.hu](http://igemorzsa.hu/bibliakor-jegyzet/jezus_elete/01_tema.html) - Általánosságban a próféciák céljáról és jellégéről is szó van
 
 # Régészet
 
