@@ -6,7 +6,7 @@ Ebben a listában hivatalos (adventista egyház által jóváhagyott) és nemhiv
 
 Ezért aki azt észleli, hogy egy bizonyos kategóriánál nagyon egyoldalú (egy irányzathoz köthető) források vannak csak, és szeretne ezen változtatni, az előterjesztheti javaslatát az alábbi "Hozzájárulás" részben leírtak szerint.
 
-Saját tanulmányokat / projekteket is - amennyiben érdemesnek találod - bátran javasolhatsz, mert: "Gyertyát sem azért gyújtanak, hogy a véka alá, hanem hogy a gyertyatartóba tegyék és fényljék..." Máté 5:15.
+Saját tanulmányaidat / projektjeidet is - amennyiben érdemesnek találod - bátran javasolhatod, mert: "Gyertyát sem azért gyújtanak, hogy a véka alá, hanem hogy a gyertyatartóba tegyék és fényljék..." Máté 5:15.
 
 # Hozzájárulás
 
