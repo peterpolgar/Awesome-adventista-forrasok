@@ -207,7 +207,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 - [EGW a bizonyságtételekről](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hitelet/egw_a_bizonysagtetelekrol.pdf)
 - [Igekutatás: vegyünk példát az úttörőktől! - Polgár Tibor összeállítása](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hitelet/Igekutatas-uttorok-szentely.pdf)
-- [Kereszténység Kínában - "A Mennyei ember" című könyvből egy fejezet szkennelve ismeretlen által](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hitelet/Keresztenyseg_Kinaban.pdf)
+- [Kereszténység Kínában - "A mennyei ember" című könyvből egy fejezet szkennelve ismeretlen által](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Hitelet/Keresztenyseg_Kinaban.pdf)
 - Lásd még: [Lelki ébresztők](#lelki-ébresztők)
 
 # Hitvallás, hitelvek
