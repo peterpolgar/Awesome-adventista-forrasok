@@ -270,12 +270,14 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 - [Audio University – Learn audio production online](https://audiouniversityonline.com/) - hangosításról általában
 - [Behind The Mixer](https://www.behindthemixer.com/) - gyülekezeti hangosítás
+- [Mic University by DPA Microphones - Talks, Guides & Insights](https://www.dpamicrophones.com/mic-university)
 - [Kettner Creative | Podcasting, Live Streaming, Recording, & More…](https://kettnercreative.com/)
 
 ### Egyéb cikkek
 
 - [5 Basic Audio Effects Every Vocalist Should Know](https://www.izotope.com/en/learn/5-basic-audio-effects-every-vocalist-should-know.html)
 - [Ear training frequency guide - Audio University](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/IT/Ear%20Training%20Frequency%20Guide.pdf)
+- [Facts about speech intelligibility: human voice frequency range (dpamicrophones.com)](https://www.dpamicrophones.com/mic-university/facts-about-speech-intelligibility)
 - [The 248 Best Free VST Plugins Ever (2022 Update)](https://blog.landr.com/best-free-vst-plugins/)
 - [Understanding Your Mixer: The Channel Strip](https://music.tutsplus.com/tutorials/understanding-your-mixer-the-channel-strip--audio-2940)
 - [What Vocal Effects do Audio Producers Use?](https://www.ipr.edu/blogs/audio-production/what-vocal-effects-do-audio-producers-use/)
