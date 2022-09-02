@@ -10,7 +10,7 @@ Alapvetően az, hogy szórakoztasson, relaxáljon. Világi zenét azért hallgat
 
 ## Milyen stílusú / műfajú zene a megfelelő keresztény zeneként?
 
-A válasz az, hogy bármilyen. Az, hogy melyik zene stílus megfelelő, az egy teljesen szubjektív dolog, egyéni ízlés kérdése. Egy a lényeg, mégpedig az, hogy csakis Isten dicsőítése legyen a középpontban.
+A válasz az, hogy bármilyen. Az, hogy melyik zenei stílus megfelelő, az egy teljesen szubjektív dolog, egyéni ízlés kérdése. Egy a lényeg, mégpedig az, hogy csakis Isten dicsőítése legyen a középpontban.
 
 ### Mi a probléma a mai világias stílusú keresztény zenékkel?
 
