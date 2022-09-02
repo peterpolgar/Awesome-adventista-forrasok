@@ -179,6 +179,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 - [Ének: Krisztus él](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Enek_zene/Krisztus_el.pdf)
 - [Hitünk Énekei Lejátszó](http://sopron.adventista.hu/enekek/)
+- [Keresztény zeneről vélemény - Polgár Péter](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Enek_zene/Kereszt%C3%A9ny%20zene_velemeny.md)
 
 # Hit általi megigazulás, 1888
 
