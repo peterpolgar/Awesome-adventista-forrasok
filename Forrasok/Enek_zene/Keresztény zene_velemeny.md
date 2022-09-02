@@ -1,4 +1,4 @@
-# Keresztény zene
+# Keresztény zenéről vélemény
 
 ## Mi a keresztény zene célja?
 
