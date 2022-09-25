@@ -277,9 +277,12 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 ### Egyéb cikkek
 
 - [5 Basic Audio Effects Every Vocalist Should Know](https://www.izotope.com/en/learn/5-basic-audio-effects-every-vocalist-should-know.html)
+- [Videó: ATEM Mini Sound Settings - Compressor, EQ, Limiter, Expander](https://youtu.be/j4RLCBd3Q64)
+- [Audio Dynamics 101: Compressors, Limiters, Expanders, and Gates (izotope.com)](https://www.izotope.com/en/learn/audio-dynamics-101-compressors-limiters-expanders-and-gates.html)
 - [Ear training frequency guide - Audio University](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/IT/Ear%20Training%20Frequency%20Guide.pdf)
 - [Facts about speech intelligibility: human voice frequency range (dpamicrophones.com)](https://www.dpamicrophones.com/mic-university/facts-about-speech-intelligibility)
 - [The 248 Best Free VST Plugins Ever (2022 Update)](https://blog.landr.com/best-free-vst-plugins/)
+- [The Secret To Compressor Attack And Release Time – Mastering The Mix](https://www.masteringthemix.com/blogs/learn/the-secret-to-compressor-attack-and-release-time)
 - [Understanding Your Mixer: The Channel Strip](https://music.tutsplus.com/tutorials/understanding-your-mixer-the-channel-strip--audio-2940)
 - [What Vocal Effects do Audio Producers Use?](https://www.ipr.edu/blogs/audio-production/what-vocal-effects-do-audio-producers-use/)
 
@@ -290,6 +293,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 ## Videó streamelés
 
+- [Videó: Fix Blurry Youtube Stream Quality, encoder overloaded messages, and set bitrate for OBS (2021)](https://youtu.be/c3Mn77MAQnY)
 - [Kettner Creative | Podcasting, Live Streaming, Recording, & More…](https://kettnercreative.com/)
 
 # Jelenvaló igazság
