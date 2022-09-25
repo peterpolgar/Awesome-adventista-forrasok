@@ -272,6 +272,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Audio University – Learn audio production online](https://audiouniversityonline.com/) - hangosításról általában
 - [Behind The Mixer](https://www.behindthemixer.com/) - gyülekezeti hangosítás
 - [Kettner Creative | Podcasting, Live Streaming, Recording, & More…](https://kettnercreative.com/)
+- [Learn Mixing and Mastering – Mastering The Mix](https://www.masteringthemix.com/blogs/learn)
 - [Mic University by DPA Microphones - Talks, Guides & Insights](https://www.dpamicrophones.com/mic-university)
 
 ### Egyéb cikkek
