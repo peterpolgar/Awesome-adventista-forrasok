@@ -395,6 +395,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [A szentlélek eljő reátok - Ellen G. White](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Napi_ahitat/Konyv_A_szentlelek_eljo_reatok.pdf)
 - [Áhítatos könyvek - white-konyvtar.hu](https://white-konyvtar.hu/mind#%C3%81h%C3%ADtatos%20k%C3%B6nyvek)
 - [Hálaige generátor](https://peterpolgar.github.io/halaige-generator/)
+- [Higgyetek az Ő prófétáinak](https://higgyetekazoprofetainak.blogspot.com/)
 - [Napi felrázás](https://peterpolgar.github.io/napi-felrazas/)
 - [Reggeli dicséret](https://reggelidicseret.blogspot.com/)
 
