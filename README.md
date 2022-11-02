@@ -152,6 +152,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Dénes Ottó – Bibliáról, csak gondolkodóknak](https://denesotto.hu/) - Dénes Ottó honlapja
 - [Istenről nem szabad képet, sem videót készíteni - Polgár Péter](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Egyeb_erdekes/Istenrol_nem_szabad_kepet_videot_kesziteni.pdf)
 - [Gyűrű-Kúra - Magyarország első és eddig egyetlen tudományosan igazolt hatékonyságú párkapcsolati tréningje](https://gyuru-kura.hu/)
+- [Higgyetek az Ő prófétáinak](https://higgyetekazoprofetainak.blogspot.com/)
 - [Mozgalomból – egyház (Robert Pierson búcsúbeszéde) – Dénes Ottó (denesotto.hu)](https://denesotto.hu/2021/05/mozgalombol-egyhaz-robert-pierson-bucsubeszede/)
 - [Tényleg több, mint 50-szer mond ellent a Bibliának Ellen White? - egw.hu](https://egw.hu/biblia-egw)
 - [Angol: A White Estate különleges tanulmányai](https://whiteestate.org/about/issues/)
