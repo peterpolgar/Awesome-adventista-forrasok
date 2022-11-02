@@ -446,10 +446,10 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 # YouTube csatornák
 
 - [Adventizmus megrázása](https://www.youtube.com/c/Adventizmusmegr%C3%A1z%C3%A1sa/playlists) - jellemző témák: 1888 - hit általi megigazulás, Jones, Waggoner; QOD válság; Utolsó Nemzedék Teológiája
-- [Barabás Ferenc - YouTube](https://www.youtube.com/c/FerencBarab%C3%A1s) - Szolokmai Adventista Gyülekezet
+- [Barabás Ferenc](https://www.youtube.com/c/FerencBarab%C3%A1s) - Szolokmai Adventista Gyülekezet
 - [DANIEL 11](https://www.youtube.com/channel/UC4sX1XWxmRV8Ldxt24BvXJA/videos) - jellemző témák: prófécia-iskola
 - [E. G. White Könyvtár](https://www.youtube.com/c/EGWhiteK%C3%B6nyvt%C3%A1r/videos) - jellemző témák: jelenvaló igazság sokféle témában
 - [Jelenvaló Igazság](https://www.youtube.com/channel/UCJSw3qMUWTjOzbfmxagkuBA/videos) - jellemző témák: késői eső; hármas angyali üzenet; 1888; QOD válság
 - [Light Channel Transylvania](https://www.youtube.com/c/LightChannelTV/featured) - jellemző témák: napi áhítat; kerakos igehirdetések; zene; David Gates igehirdetések
-- [T-media - YouTube](https://www.youtube.com/user/tetadventista) - TET videók
+- [T-media](https://www.youtube.com/user/tetadventista) - TET videók
 - [Sándor Farkas](https://www.youtube.com/channel/UCbiF9qesVND9LykiNjQ7UzQ/videos) - jellemző témák: magyar igehirdetések: Moldován Vilmos, Szigeti Jenő, Kovács-Bíró János stb.
