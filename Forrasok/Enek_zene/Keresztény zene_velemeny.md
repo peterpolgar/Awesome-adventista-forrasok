@@ -16,7 +16,7 @@ A válasz az, hogy bármilyen. Az, hogy melyik zenei stílus megfelelő, az egy 
 
 Nem az a baj, hogy a világias stílus (pl. pop, rock, jazz stb.) nem egyenlő a konzervatív, klasszikus zenei stílussal. Mert aki a konzervatív zenét kedveli, annál ugyanaz az extázis jelenhet meg, mint abban a személyben, aki más stílusú zenét hallgat.
 
-Hanem az a baj, hogy a szórakoztatásnak ugyanolyan jelentőséget tulajdonítanak, mint Isten dicsőítésének. Tehát ezeknél már nem csak az a cél, hogy Istent dicsőítsék, hanem az is, hogy közben az ember olyan zenei élményt kapjon, mint amit egy világi zenétől szokott kapni. Éppen ezért attól, hogy egy világi zene dallamára írnak Istent dicsóítő szöveget, az attól még világi zene marad abban az értelemben, hogy a zene által adott élmény / szórakozástatás megmarad. Ez azért baj, mert ekkor az ember nem tud teljesen Isten dicsőítésére koncentrálni, mert a zenei élmény elveszi a figyelmet (azaz ekkor már magára a zenére (ének nélkül) is jobban figyelünk).
+Hanem az a baj, hogy a szórakoztatásnak ugyanolyan jelentőséget tulajdonítanak, mint Isten dicsőítésének. Tehát ezeknél már nem csak az a cél, hogy Istent dicsőítsék, hanem az is, hogy közben az ember olyan zenei élményt kapjon, mint amit egy világi zenétől szokott kapni. Éppen ezért attól, hogy egy világi zene dallamára írnak Istent dicsóítő szöveget, az attól még világi zene marad abban az értelemben, hogy a zene által adott élmény / szórakozástatás megmarad. Ez azért baj, mert ekkor az ember nem tud teljesen Isten dicsőítésére koncentrálni, mert a zenei élmény elveszi a figyelmét (azaz ekkor már magára a zenére (ének nélkül) is jobban figyelünk).
 
 ### Nem szabad erőltetni a klasszikus / konzervatív vonalat
 
