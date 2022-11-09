@@ -24,7 +24,7 @@ Sem a klasszikus / konzervatív, sem bármlyen más zenei stílust nem szabad m�
 
 ## Akkor hogyan hallgassunk zenét?
 
-Én azt mondom, hogy különítsük el a két zenei műfajt: a keresztény zene fókuszáljon teljesen Istenre, és kerülje azt, hogy olyan extázis élményt adjon, mint egy világi zene. Én azt tanácsolom, ne keverjük a két műfajt, mindegyik maradjon meg annak, amire való, a keresztény zene Isten dicsőítésére, a világi zene pedig a szórakoztatásra és relaxációra. Mert a keverék sem egyik sem másik célra nem igazán jó.
+Én azt mondom, hogy különítsük el a két zenei műfajt: a keresztény zene fókuszáljon teljesen Istenre, és kerülje azt, hogy olyan extázis élményt nyújtson, mint egy világi zene. Én azt tanácsolom, ne keverjük a két műfajt, mindegyik maradjon meg annak, amire való, a keresztény zene Isten dicsőítésére, a világi zene pedig a szórakoztatásra és relaxációra. Mert a keverék sem egyik sem másik célra nem igazán jó.
 
 (Persze tudom, az ún. igazi keresztény nem hallgat világi zenét, de szerintem az a jó, ha meggyőződésből cselekszünk, nem pedig kényszerítés által.)
 
