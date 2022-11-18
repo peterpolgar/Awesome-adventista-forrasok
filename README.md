@@ -83,6 +83,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Advent Videó Stúdió](http://adventvideo.hu/fooldal/) - adventista videók, mai ige
 - [Adventizmus Megrázása](http://adventizmusmegrazasa.hu/) - 1888, hármas angyali üzenet, az új teológia leleplezése, könyvek pdf stb.
 - [AdventNET Rádió](https://radio.adventnet.hu/) - adventista internetes rádió
+- [Archívum – AdventNET Rádió](https://radio.adventnet.hu/archivum/)
 - [Bibliacentrum](http://bibliacentrum.hu/) - előadások, dokumentumok tőlük: Hites Gábor, Reisinger János, Stramszki István, Tóth Gábor, Vankó Zsuzsanna, Végh József
 - [Bibliai Akadémia](http://www.bibliaiakademia.hu/) - Szilvási József írásai
 - [Bibliai Igemorzsák](http://www.igemorzsa.hu/index.html) - Háló Sándor honlapja
@@ -90,6 +91,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 - [Ellen Gould White Könyvtár](https://white-konyvtar.hu/) - Majdnem az összes, magyarul kiadott Ellen White írások olvashatók online (a "Kiben bízhatunk" sorozat hiányzik), és az írásokban fejlett keresési lehetőség van.
 - [Forrás Média Központ](https://forrasmedia.hu/) - "Evangélium tiszta forrásból", előadások, tanulmányok, zene stb.
 - [Hangos Biblia (igemorzsa.hu)](http://igemorzsa.hu/hangos-biblia/)
+- [Hangtár - Kerak](https://kerak.hu/hangtar)
 - [Hetednapi Adventista Egyház | Magyar Unió](https://adventista.hu/) - A Magyar Unió hivatalos honlapja.
 - [Kegyelem Net](http://kegyelem.net/) - adventista gyülekezetek istentiszteletei, egyéb videók
 - [Kerak](https://kerak.hu/) - A Keresztény Advent Közösség hivatalos honlapja.
