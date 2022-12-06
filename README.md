@@ -109,11 +109,15 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 # Biblia keletkezése, ihletettsége
 
+- [A Biblia keletkezésének háttere - Tények és tévhitek - Sola Scriptura Teológiai Főiskola](https://github.com/peterpolgar/Awesome-adventista-forrasok/tree/main/Forrasok/Biblia_keletkezes_ihletettseg/A_Biblia_keletkezesenek_hattere-Tenyek_es_tevhitek.pdf)
+
 - [A Biblia keletkezéstörténete és hermeneutikája - Péter Katalin](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Biblia_keletkezes_ihletettseg/a_biblia_keletkezestortenete_es_hermeneutikaja_1_cikk.pdf)
 
 - [Témavázlat: bibliai antropológia - ismeretlen szerző](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Biblia_keletkezes_ihletettseg/temavazlat_bibliai_antropologia_071213.pdf)
 
 # Bibliamagyarázatok, bibliai anyagok
+
+- [Sola Scriptura Teológiai Főiskola letölthető jegyzetei, segédanyagai kigyűjtve](https://github.com/peterpolgar/Awesome-adventista-forrasok/tree/main/Forrasok/sola_anyagok)
 
 ## Ószövetség
 
@@ -359,6 +363,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 ## Mi az igazi evangélium?
 
+- [Az örökkévaló JÓ HÍR - Sola Scriptura Teológiai Főiskola](https://github.com/peterpolgar/Awesome-adventista-forrasok/tree/main/Forrasok/Megoszto_tanitasok/Mi_az_igazi_evangelium/az-orokkevalo-jo-hir.pdf)
 - [Szemtől szemben az igazi evangéliummal - Dennis Priebe](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Megoszto_tanitasok/Mi_az_igazi_evangelium/Szemtol-szemben-az-igazi-evangeliummal-Site.pdf)
 
 ## Nők felszentelése
@@ -442,6 +447,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 # Törvény
 
+- [Az elfelejtett tízparancsolat - Sola Scriptura Teológiai Főiskola](https://github.com/peterpolgar/Awesome-adventista-forrasok/tree/main/Forrasok/Torveny/az-elfelejtett-tizparancsolat.pdf)
 - [Jézus és a mózesi törvények - Vankó Zsuzsa](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Torveny/Jezus_es_a_mozesi_torvenyek.pdf)
 - [Törvények Krisztus napjaiban - Vankó Zsuzsa](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Torveny/Torvenyek_Krisztus_napjaiban.pdf)
 
