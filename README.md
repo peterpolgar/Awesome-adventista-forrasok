@@ -132,7 +132,7 @@ Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adv
 
 ## Újszövetség
 
-- [Jézus halála és feltámadása időpontjának meghatározása, és az ezzel kapcsolatos próféciák teljesedése - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Ujszovetseg/Jezus_halala_es_feltamad%C3%A1sa.pdf)
+- [Jézus halála és feltámadása időpontjának meghatározása, és az ezzel kapcsolatos próféciák teljesedése - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Ujszovetseg/Jezus_halala_es_feltamadasa.pdf)
 - [Újszövetségi ünnepek, prezentáció - Polgár Tibor](https://github.com/peterpolgar/Awesome-adventista-forrasok/blob/main/Forrasok/Bibliamagyarazatok/Ujszovetseg/Ujszovetsegi_unnepek.pdf)
 
 # Egészségügy
