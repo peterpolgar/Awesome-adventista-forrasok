@@ -14,6 +14,10 @@ Minden javaslatot lehetőleg egy pull request formájában kellene jelezni az [�
 
 Köszönet minden [hozzájárulónak](https://github.com/peterpolgar/Awesome-adventista-forrasok/graphs/contributors)!
 
+# Panasztétel
+
+E repository MIT licensszel rendelkezik, mely licensz így vonatkozik az összes dokumentumra, ami ebben a repositoryban található. Sok esetben nem kértem engedélyt az eredeti szerzőktől művük újrapublikálására, pláne nem MIT licensz alatti publikálásra. Ha valakinek kifogása van az ellen, hogy a műve itt MIT licensz alatt van kiadva, akkor ezt kérem jelezze egy [issue](https://github.com/peterpolgar/Awesome-adventista-forrasok/issues/new/choose)-ban, és akkor amint látok egy ilyen issue-t, akkor az abban az issue-ban hivatkozott dokumentumo(ka)t azonnali hatállyal eltávolítom. Persze lehet mondani, hogy illegális, amit csinálok, de jóhiszeműen azt gondolom, hogy minden rendes keresztény egyetért azzal, hogy keresztény műveket nem azért készítünk, hogy abból jövedelmünk legyen, hanem azért, hogy minél több emberhez eljuttassuk. Ha valaki nem ért egyet ezzel a felfogással, akkor a már említett módon panaszt tehet.
+
 ---
 
 # Tartalomjegyzék
